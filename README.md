@@ -54,7 +54,7 @@ Smart Assistant for Research Summarization/
 
 **App Screenshot**
 
-![App Screenshot](app_screenshot.png)
+![App Screenshot](app_screenshot-1.png)
 
 **Ask Anything mode in action**
 
