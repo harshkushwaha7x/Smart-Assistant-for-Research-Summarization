@@ -53,10 +53,13 @@ Smart Assistant for Research Summarization/
 ```
 
 **App Screenshot**
+
 ![App Screenshot](app_screenshot.png)
 
-**Ask Anything mode in action:**
+**Ask Anything mode in action**
+
 ![Ask Anything Screenshot](app_screenshot-2.png)
 
-**Challenge Me mode in action:**
+**Challenge Me mode in action**
+
 ![Challenge Me Screenshot](app_screenshot-3.png)
